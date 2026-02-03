@@ -1,0 +1,2 @@
+Questa versione funziona usando realterm oppure l'app sullo smarthphone "Serial bluetooth terminal".
+Non prevede l'utilizzo dell'applicazione form vb.net "Datalogger_defrost".
